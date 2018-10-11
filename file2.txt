@@ -1,1 +1,3 @@
-this is a second file.
+this is a second file. 
+
+I'm continuing to work in the master branch while features are built in other branches.
